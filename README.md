@@ -1,1 +1,1 @@
-# stacking-reward
+# staking-reward
